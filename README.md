@@ -2,6 +2,12 @@
 
 Una aplicación móvil moderna construida con **Ionic**, **Vue 3** y **TensorFlow.js** para el reconocimiento de objetos en tiempo real.
 
+Este proyecto sigue la metodología **Spec-Driven Development (SDD)** para garantizar una arquitectura sólida y una documentación clara.
+
+## 📄 Documentación del Proceso (SDD)
+- **[Especificaciones (Foundations & Specify)](SPEC.md)**: Objetivos, alcance y descripción funcional.
+- **[Planificación (Planning)](tasks.md)**: Decisiones técnicas y seguimiento de tareas.
+
 ## 🚀 Características
 
 - **Detección en tiempo real**: Utiliza la cámara del dispositivo para identificar objetos instantáneamente.
